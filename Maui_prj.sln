@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui_app", "Maui_app\Maui_app.csproj", "{A54D96C6-9D47-4911-811D-7814B1843289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alignment", "Alignment\Alignment.csproj", "{0467F760-A27A-4BEB-878B-E72D90B6DD80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{A54D96C6-9D47-4911-811D-7814B1843289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A54D96C6-9D47-4911-811D-7814B1843289}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A54D96C6-9D47-4911-811D-7814B1843289}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
