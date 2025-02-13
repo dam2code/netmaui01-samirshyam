@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui_app", "Maui_app\Maui_a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alignment", "Alignment\Alignment.csproj", "{0467F760-A27A-4BEB-878B-E72D90B6DD80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "TipCalculator\TipCalculator.csproj", "{B617119F-532B-450E-BA0D-7119FE2EA4F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0467F760-A27A-4BEB-878B-E72D90B6DD80}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
