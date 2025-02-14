@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alignment", "Alignment\Alig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "TipCalculator\TipCalculator.csproj", "{B617119F-532B-450E-BA0D-7119FE2EA4F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronomy", "D:\VSC_MAUI_DOWNLOADS\mslearn-dotnetmaui-create-multi-page-apps\exercise1\start\Astronomy\Astronomy\Astronomy.csproj", "{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astronomy", "Astronomy\Astronomy.csproj", "{51EF2A16-93D6-4AE4-8865-68FD39266F73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +35,12 @@ Global
 		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B617119F-532B-450E-BA0D-7119FE2EA4F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5A60B98-8F05-4EA7-989E-DA7223BF2A55}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EF2A16-93D6-4AE4-8865-68FD39266F73}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
